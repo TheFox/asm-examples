@@ -1,0 +1,3 @@
+*.o
+hello_i386
+hello_x64

@@ -1,0 +1,14 @@
+{
+	"folders":[
+		{
+			"path": ".",
+			"name": "ASM Examples",
+			"folder_exclude_patterns": [ ],
+			"file_exclude_patterns": [ ]
+		}
+	],
+	"settings": {
+		"tab_size": 4,
+		"translate_tabs_to_spaces": false
+	}
+}
